@@ -7,5 +7,5 @@ It acts not only as a record and coordination repo for in person gatherings - bu
 
 | # | When      | Where + Link          | Context    |
 | - | --------- | --------------------- | ---------- |
-| 0 | 25.4.2022 | [Tolhuistuin Amsterdam](https://github.com/ChainAgnostic/AMS-CASA-gathering) | DEVConnect |
+| 0 | 25.4.2022 | [Tolhuistuin Amsterdam](2022-05-22-AMS-DEVConnect/README.md) | DEVConnect |
 
