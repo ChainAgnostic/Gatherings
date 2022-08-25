@@ -20,10 +20,10 @@
 
 _We have a smaller side room available that we can run dual track content and break outs in. We will make a schedule for it as things fill up_
 
-## Social 6pm - 8pm
+## CASA C-Base ETH Merge Social 6pm -> late
 
-At the end of the day we'll open the cbase bar with non alcoholic drinks and beer, plus a few snacks. 
+At the end of the day we'll open the cbase bar with beer and non alcoholic drinks, plus a few snacks. 
 
-We'll wrap up at 8PM and leave the spaceship. 
+Both CASA attendees and others welcome! [Please let us know if you're coming for the social »](https://lu.ma/3uu6s45t)
 
 ###### tags: CASA, CASABerlin
