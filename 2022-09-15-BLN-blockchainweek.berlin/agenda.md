@@ -9,7 +9,7 @@
 |9:30am|Registration Checkin|
 |10:00am|Opening Session|
 |10:30am||
-|11:30am||
+|11:30am|Working Session on adding block number tag to CAIP-19 see [#125](https://github.com/ChainAgnostic/CAIPs/pull/125)|
 |12:30pm|Lunch Break|
 |2:00pm||
 |3:00pm||
