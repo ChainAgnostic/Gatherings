@@ -8,4 +8,4 @@ It acts not only as a record and coordination repo for in person gatherings - bu
 | # | When       | Where + Link          | Context    |
 | - | ---------- | --------------------- | ---------- |
 | 0 | 2022-04-25 | [Tolhuistuin Amsterdam](2022-04-25-AMS-DEVConnect) | [DEVConnect](https://devconnect.org) |
-| 1 | 2022-09-15 | [c-base Berlin](2022-09-15-BLN-blockchainweek.berlin) | [Berlin Blockhainweek](https://blockchainweek.berlin) |
+| 1 | 2022-09-15 | [c-base Berlin](2022-09-15-BLN-blockchainweek.berlin) | [Berlin Blockchainweek](https://blockchainweek.berlin) |
