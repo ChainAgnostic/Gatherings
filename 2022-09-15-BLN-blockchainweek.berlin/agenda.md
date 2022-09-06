@@ -21,6 +21,9 @@ Proposed 25min topics for Unconference format (Side Room):
 * ETH2 Merge and CAIP-2/ChainID issues (See [CAIPs#127](https://github.com/ChainAgnostic/CAIPs/issues/127)) and [forkID section of EIP-2124](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2124.md)
 * Hedera and other chains superseding CAIP-10 for something less constrained? See [CAIP#112](https://github.com/ChainAgnostic/CAIPs/issues/112)
 * [JWT Profile for Web2 ingestion/OAuth Feature Parity](https://github.com/ChainAgnostic/CAIPs/issues/128) - Will Jared be in attendance perchance?
+* Profiling or extending CACAOs to enable interoperable capability systems (See [EIP-5573](https://github.com/ethereum/EIPs/pull/5573/files) )
+
+Participants are warmly welcome to propose working sessions to think through namespace proposals, new CACAO profiles for additional namespaces/contexts, etc.
 
 ## CASA C-Base ETH Merge Social 6pm -> late
 
