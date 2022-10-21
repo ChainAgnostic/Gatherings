@@ -3,7 +3,7 @@
 ## Schedule
 
 |Time|Session|Second Stage|
-|---|---|
+|---|---|---|
 |3:00pm|Checkin, name tag, say-hi, grab coffee|x|
 |3:20pm|Round of introductions|x|
 |3:30pm|What is CASA, what are CAIPs, what are namespaces, how do?|x|
