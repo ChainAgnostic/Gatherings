@@ -1,6 +1,7 @@
 # Chain Agnostic Gathering Berlin
 
 **Date:** 15. September 2022
+
 **Location:** c-base Berlin
 
 We will have our second CASA gathering at [c-base](https://www.c-base.org) in Berlin in the context of [Berlin Blockchainweek 2022](https://blockchainweek.berlin)
