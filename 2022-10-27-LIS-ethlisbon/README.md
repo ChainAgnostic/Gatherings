@@ -36,7 +36,7 @@ Time To Cowork
 
 ### Description
 
-We will have our second CASA gathering at [Garagem](garagemlisboa.com) in Lisbon, which will be converted that week and the following into the HackerBase for IPFS Camp 2022.  This will not be a ticketed event-- simply come as you are and tell them you're here for CASA at the door.  Coffee and kitchen access is included in your co-working day-pass-- feel free to come early and grab some focus time at a hotdesk, brownbag your lunch, etc.
+We will have our second CASA gathering in two conference rooms of the Time to Cowork space on the Lisbon waterfront.  This will not be a ticketed event-- simply come as you are and tell them you're here for CASA at the door.  Coffee and kitchen access is included in your co-working day-pass-- feel free to come early and grab some focus time at a hotdesk, brownbag your lunch, etc.
 
 ### Ticketing/Registration
 
