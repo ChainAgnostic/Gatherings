@@ -13,10 +13,16 @@ Garagem Lisboa
 * Ask around for "the CASA people"
 * [hoolimaps](https://goo.gl/maps/mrREjp4nZUr1fiKQ9)
 
+### Description
+
 As a warm-up and recruiting event, the CASA team will be on hand from 11-2 to talk to any interested IPFS/FIL/PL/etc parties about cross-chain engineering, standards in and beyond the browser, and anything else!  There will also be hands-on demos and workshops from:
 - Ceramic (WalletAuth, [ComposeDB](https://composedb.js.org/), CACAOs, DID:3)
 - Fission (WalletAuth)
 - SpruceID (ReCaps)
+
+### Registration
+
+This event is free but registration is required [here](https://discord.com/channels/@me/1029387140104212571/1034517853535223889).
 
 ## CASA STANDARDS MINI-GATHERING
 
@@ -28,7 +34,13 @@ Time To Cowork
  * Say you're there for the CASA Event
  * [hoolimaps](https://goo.gl/maps/UCZgEAtboi8u9SCY7)
 
+### Description
+
 We will have our second CASA gathering at [Garagem](garagemlisboa.com) in Lisbon, which will be converted that week and the following into the HackerBase for IPFS Camp 2022.  This will not be a ticketed event-- simply come as you are and tell them you're here for CASA at the door.  Coffee and kitchen access is included in your co-working day-pass-- feel free to come early and grab some focus time at a hotdesk, brownbag your lunch, etc.
+
+### Ticketing/Registration
+
+None!
 
 ### Mini-Gathering Schedule
 
