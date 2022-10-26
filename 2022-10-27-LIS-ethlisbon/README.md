@@ -48,7 +48,7 @@ None!
 |---|---|---|
 |3:00pm|Checkin, name tag, say-hi, grab coffee|x|
 |3:20pm|Round of introductions|x|
-|3:30pm|What is CASA, what are CAIPs, what are namespaces, how do?|x|
+|3:30pm|What is CASA, what are CAIPs, what are namespaces, how do?|A Recap on ReCaps|
 |4:00pm|Overview of ongoing issues/onboarding by example|Insiders' backchannels|
 |4.30pm|CAIP-25 Discussion|Map out your first PR workshop|
 |6.00pm|Report-out and next steps|x|
