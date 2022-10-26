@@ -22,7 +22,7 @@ As a warm-up and recruiting event, the CASA team will be on hand from 11-2 to ta
 
 ### Registration
 
-This event is free but registration is required [here](https://discord.com/channels/@me/1029387140104212571/1034517853535223889).
+This event is free but registration is required [here](https://hackerbase.eventbrite.com/).
 
 ## CASA STANDARDS MINI-GATHERING
 
