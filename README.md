@@ -7,6 +7,8 @@ It acts not only as a record and coordination repo for in person gatherings - bu
 
 | # | When       | Where + Link          | Context    |
 | - | ---------- | --------------------- | ---------- |
+| 4 | 2023-11-17 | [Devconnect Main Venue](https://devconnect.org/istanbul) | [Istanbul Devconnect 2023](https://devconnect.org/istanbul) |
+| 3 | 2023-09-07 | [Berlin Eth Meetup September 2023](https://www.meetup.com/berlin-ethereum-meetup/events/295903688/) | [Berlin Blockchain Week](https://blockchainweek.berlin/), [Joshua Dávila's book tour](https://www.google.com/books/edition/Blockchain_Radicals/UQabEAAAQBAJ) |
 | 2 | 2022-10-27 | [Garagem Lisboa](2022-10-27-LIS-ethlisbon) | [ethlisbon](https://www.ethlisbon.org/), [ipfs camp](https://2022.ipfs.camp/) |
 | 1 | 2022-09-15 | [c-base Berlin](2022-09-15-BLN-blockchainweek.berlin) | [Berlin Blockchainweek](https://blockchainweek.berlin) |
 | 0 | 2022-04-25 | [Tolhuistuin Amsterdam](2022-04-25-AMS-DEVConnect) | [DEVConnect](https://devconnect.org) |
