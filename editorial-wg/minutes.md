@@ -1,5 +1,8 @@
 # CASA Monthly Editorial Mtg
 
+[![hackmd-github-sync-badge](https://hackmd.io/dtChJuqYQDqrppvCceqtSg/badge)](https://hackmd.io/dtChJuqYQDqrppvCceqtSg)
+
+
 ## CASA Editorial
 
 ### PRs to refine/move to close
